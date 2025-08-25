@@ -1,0 +1,11 @@
+{
+    "zencoder.enableRepoIndexing": true,
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "classes",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.saveActions.organizeImports": true
+}
